@@ -3,7 +3,7 @@
 ## Running an interactive session
 
 ```bash
-docker build . --t eduardoshanahan/python_dev:latest
+docker build . -t eduardoshanahan/python_dev:latest
 docker run -it --rm eduardoshanahan/python_dev
 ```
 
