@@ -1,7 +1,8 @@
 # Changelog
 
-## 2017-12-14
+## [2.7.13.3] - 2017-12-14
 
+* Changed: Updated Python base image to 2.7.13.3
 * Changed: added a tag creation script
 
 ## [2.7.13.r1.2] - 2017-12-12
