@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.7.13.4] 2018-01-01
+
+* Changed: Updated Alpine packages
+* New: Script to build Docker local images
+
 ## [2.7.13.3] - 2017-12-14
 
 * Changed: Updated Python base image to 2.7.13.3
